@@ -1,0 +1,15 @@
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\bin\Debug\net8.0\tpmodul6_1302220080.exe
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\bin\Debug\net8.0\tpmodul6_1302220080.deps.json
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\bin\Debug\net8.0\tpmodul6_1302220080.runtimeconfig.json
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\bin\Debug\net8.0\tpmodul6_1302220080.dll
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\bin\Debug\net8.0\tpmodul6_1302220080.pdb
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\obj\Debug\net8.0\tpmodul6_1302220080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\obj\Debug\net8.0\tpmodul6_1302220080.AssemblyInfoInputs.cache
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\obj\Debug\net8.0\tpmodul6_1302220080.AssemblyInfo.cs
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\obj\Debug\net8.0\tpmodul6_1302220080.csproj.CoreCompileInputs.cache
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\obj\Debug\net8.0\tpmodul6_1302220080.sourcelink.json
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\obj\Debug\net8.0\tpmodul6_1302220080.dll
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\obj\Debug\net8.0\refint\tpmodul6_1302220080.dll
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\obj\Debug\net8.0\tpmodul6_1302220080.pdb
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\obj\Debug\net8.0\tpmodul6_1302220080.genruntimeconfig.cache
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul6_1302220080\tpmodul6_1302220080\obj\Debug\net8.0\ref\tpmodul6_1302220080.dll
